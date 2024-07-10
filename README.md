@@ -1,7 +1,7 @@
 # Welcome to Shivani's GitHub Playground! 🚀
 
 ## About Me
-Hello there! I'm Shivani, an enthusiastic MCA graduate with a passion for web development. My journey in the world of programming has equipped me with solid skills in HTML, CSS, JavaScript, PHP, and MySQL. I enjoy creating responsive and dynamic web applications that not only look good but also function seamlessly.
+Hello there! I'm Shivani, an enthusiastic MCA graduate with a passion for web development. My journey in the world of programming has equipped me with solid skills in HTML, CSS, JavaScript, PHP,Reactjs and MySQL. I enjoy creating responsive and dynamic web applications that not only look good but also function seamlessly.
 
 ## 💻 Tech Stack
 - HTML
@@ -9,6 +9,7 @@ Hello there! I'm Shivani, an enthusiastic MCA graduate with a passion for web de
 - JavaScript
 - PHP
 - MySQL
+- Reactjs
 
 ## 🚀 What You'll Find Here
 Explore my repositories to find a mix of projects showcasing my skills and creativity. From sleek website designs to interactive web applications, I love turning ideas into code.
